@@ -1,0 +1,2 @@
+# CustomRPC
+BetterDiscord plugin.
